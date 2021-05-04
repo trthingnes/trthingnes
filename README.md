@@ -1,6 +1,6 @@
 ## Hello there 👋
 #### I'm Tobias, a first year computer science student at the NTNU. 🎓
-#### 🌱 Right now I'm learning Java, Maven and JUnit as well as Python and Django REST.
+#### 🌱 Right now I'm learning Kotlin, Java and Python as well as frameworks like Maven, Gradle and Django REST.
 #### 💻 I'm working on [Lepton](https://github.com/tihlde/Lepton), the backend for [tihlde.org](https://tihlde.org) along with the rest of TIHLDE Index.
 
 ### Connect with me?
